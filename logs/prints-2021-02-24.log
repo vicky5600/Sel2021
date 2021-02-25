@@ -1,0 +1,7 @@
+19:59:26.681 [main] INFO  Sel2021Pro.lensesTestCaseOne - Test is displayed
+19:59:34.462 [main] ERROR Sel2021Pro.lensesTestCaseOne - username not entered
+19:59:37.827 [main] DEBUG Sel2021Pro.lensesTestCaseOne - user logged in
+20:00:46.959 [main] INFO  Sel2021Pro.lensesTestCaseOne_DBSQL - Test is displayed
+20:01:05.548 [main] ERROR Sel2021Pro.lensesTestCaseOne_DBSQL - username not entered
+20:01:08.237 [main] DEBUG Sel2021Pro.lensesTestCaseOne_DBSQL - user logged in
+20:01:14.503 [main] INFO  Sel2021Pro.lensesTestCaseOne_DBSQL - Test is displayed

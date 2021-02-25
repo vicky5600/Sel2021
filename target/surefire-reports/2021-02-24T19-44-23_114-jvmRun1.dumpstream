@@ -1,0 +1,4 @@
+# Created at 2021-02-24T19:44:26.083
+
+Two tests in the same suite [Suite] cannot have the same name: Test
+
